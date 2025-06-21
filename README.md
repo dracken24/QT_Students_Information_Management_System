@@ -1,0 +1,2 @@
+# QT_Students_Information_Management_System
+QT school project
