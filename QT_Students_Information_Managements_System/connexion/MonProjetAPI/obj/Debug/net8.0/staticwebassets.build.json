@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e2YdGmIlvi80iL5qXfbCLWuhiT+LihpkY9zzp2TgdH0=",
+  "Source": "MonProjetAPI",
+  "BasePath": "_content/MonProjetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
